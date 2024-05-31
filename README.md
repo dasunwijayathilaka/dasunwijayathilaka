@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently learning **Software Engineering & Event planning**
 
-- 🌱 I’m currently learning **My Tech stacks includes Java, Mysql, Javafx, JDBC..**
+- 🌱 I’m currently learning **My Tech stacks include Java, MySQL, JavaFX, JDBC..**
 
-- 💬 Ask me about **About Java and innovative ideas for software development**
+- 💬 Ask me about **Java and innovative ideas for software development**
 
 - ⚡ Fun fact **I once debugged a piece of code in my dreams and woke up with the perfect solution! 👽**
 
@@ -23,18 +23,48 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_sR4O5Q.json" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_1u8xfn5n.json" alt="figma" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_NyYIAm.json" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_d4oJ7U.json" alt="illustrator" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_Ib2F7i.json" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_tURzUp.json" alt="linux" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_VECvI2.json" alt="mssql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_8kRmkN.json" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_dG1WRL.json" alt="photoshop" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_tmgvxwjw.json" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_tURzUp.json" alt="vscode" width="40" height="40"/> 
+    </a> 
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_QlP50P.json" alt="github" width="40" height="40"/> 
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_JZHXpE.json" alt="intellij" width="40" height="40"/> 
+    </a>
+    <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://assets9.lottiefiles.com/packages/lf20_S9wAtY.json" alt="dbeaver" width="40" height="40"/> 
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunwijayathilaka&show_icons=true&locale=en&layout=compact" alt="dasunwijayathilaka" /></p>
