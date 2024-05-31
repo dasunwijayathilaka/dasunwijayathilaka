@@ -36,14 +36,12 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
-   
+    <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://dbeaver.io/wp-content/uploads/2017/11/dbeaver-head-1.png" alt="dbeaver" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">I like Captain America Technology and Work</h3>
-
-
+<h3 align="left"> I like Captain America Technology and Work</h3>
 <p align="left">
-I Just like Captain America tirelessly fights for justice, I strive to push the boundaries of technology with the same vigor and determination. His shield symbolizes protection and resilience, much like how I use my skills in Java, MySQL, and more to create robust and innovative software solutions. Let's be heroes in our own right, contributing to the tech world with unwavering spirit and collaborative efforts.
+I Just like to Captain America tirelessly fights for justice, I strive to push the boundaries of technology with the same vigor and determination. His shield symbolizes protection and resilience, much like how I use my skills in Java, MySQL, and more to create robust and innovative software solutions. Let's be heroes in our own right, contributing to the tech world with unwavering spirit and collaborative efforts.
 </p>
 
 <h3 align="left">My GitHub Profile:</h3>
@@ -51,9 +49,9 @@ I Just like Captain America tirelessly fights for justice, I strive to push the 
 <a href="https://github.com/dasunwijayathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunwijayathilaka&show_icons=true&locale=en&layout=compact" alt="dasunwijayathilaka" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunwijayathilaka&show_icons=true&locale=en&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="dasunwijayathilaka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en" alt="dasunwijayathilaka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="dasunwijayathilaka" /></p>
 
 <h3 align="left">Motivation:</h3>
-<p align="left"> Every line of code is a step towards innovation. Keep coding, keep creating, and let your passion drive you forward.</p>
+<p align="left">"Every line of code is a step towards innovation. Keep coding, keep creating, and let your passion drive you forward."</p>
