@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka" alt="dasunwijayathilaka" /></a> </p>
 
+<img align="right" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Developer GIF" width="250" />
+
 - 🔭 I’m currently learning **Software Engineering & Event planning**
 
 - 🌱 I’m currently learning **My Tech stacks include Java, MySQL, JavaFX, JDBC..**
@@ -15,7 +17,7 @@
 
 - ⚡ Fun fact **I once debugged a piece of code in my dreams and woke up with the perfect solution! 👽**
 
-<img align="right" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Developer GIF" width="250" />
+
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
