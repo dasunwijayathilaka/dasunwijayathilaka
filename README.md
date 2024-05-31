@@ -1,6 +1,8 @@
 <h1 align="center">Greetings 👽, I'm Dasun Wijayathilaka</h1>
 <h3 align="center">Empowering Innovation Through Collaboration: Explore, Contribute, and Grow with My Open-Source Projects</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="dasunwijayathilaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka" alt="dasunwijayathilaka" /></a> </p>
@@ -45,9 +47,9 @@
   </tr>
 </table>
 
-<h3 align="left">💻 Captain America: Technology and Work</h3>
+<h3 align="left">💻 I like Captain America Technology and Work</h3>
 <p align="left">
-Just like Captain America tirelessly fights for justice, I strive to push the boundaries of technology with the same vigor and determination. His shield symbolizes protection and resilience, much like how I use my skills in Java, MySQL, and more to create robust and innovative software solutions. Let's be heroes in our own right, contributing to the tech world with unwavering spirit and collaborative efforts.
+I Just like to Captain America tirelessly fights for justice, I strive to push the boundaries of technology with the same vigor and determination. His shield symbolizes protection and resilience, much like how I use my skills in Java, MySQL, and more to create robust and innovative software solutions. Let's be heroes in our own right, contributing to the tech world with unwavering spirit and collaborative efforts.
 </p>
 
 <h3 align="left">📈 My GitHub Stats:</h3>
