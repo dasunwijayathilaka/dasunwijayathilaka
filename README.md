@@ -39,9 +39,11 @@
    
 </p>
 
-<h3 align="left">Captain America: Technology and Work</h3>
+<h3 align="left">I like Captain America Technology and Work</h3>
+
+
 <p align="left">
-Just like Captain America tirelessly fights for justice, I strive to push the boundaries of technology with the same vigor and determination. His shield symbolizes protection and resilience, much like how I use my skills in Java, MySQL, and more to create robust and innovative software solutions. Let's be heroes in our own right, contributing to the tech world with unwavering spirit and collaborative efforts.
+I Just like Captain America tirelessly fights for justice, I strive to push the boundaries of technology with the same vigor and determination. His shield symbolizes protection and resilience, much like how I use my skills in Java, MySQL, and more to create robust and innovative software solutions. Let's be heroes in our own right, contributing to the tech world with unwavering spirit and collaborative efforts.
 </p>
 
 <h3 align="left">My GitHub Profile:</h3>
