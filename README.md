@@ -29,6 +29,10 @@
   </a>
 </p>
 
+
+
+
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <table>
   <tr>
@@ -62,6 +66,9 @@ I Just like to Captain America tirelessly fights for justice, I strive to push t
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="dasunwijayathilaka" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="dasunwijayathilaka" /></p>
 </div>
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29oZnJucHV2ZHh3aWo0eHI4Ymhnd25pNjRnemJpcnoybm9tZ3UzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.webp" alt="Developer GIF" width="550" />
+
 
 <h3 align="left">🔥 Motivation:</h3>
 <p align="left">"Every line of code is a step towards innovation. Keep coding, keep creating, and let your passion drive you forward."</p>
