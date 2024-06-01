@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Developer GIF" width="250" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlrMGY5Z253MWY5aHp6YjZ5MW9nYjBrMzUxc3Y4MmM3YjI2aWR0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" alt="Developer GIF" width="550" />
 
 - 🔭 I’m currently learning **Software Engineering & Event planning**
 
