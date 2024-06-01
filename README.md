@@ -1,11 +1,13 @@
 <h1 align="center">Greetings 👽, I'm Dasun Wijayathilaka</h1>
 <h3 align="center">Empowering Innovation Through Collaboration: Explore, Contribute, and Grow with My Open-Source Projects</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="dasunwijayathilaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka" alt="dasunwijayathilaka" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=radical" alt="dasunwijayathilaka" />
+  </a>
+</p>
 
 <img align="right" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" alt="Developer GIF" width="250" />
 
@@ -17,12 +19,14 @@
 
 - ⚡ Fun fact **I once debugged a piece of code in my dreams and woke up with the perfect solution! 👽**
 
-
-
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dasun-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasun de silva" height="30" width="40" /></a>
-<a href="https://fb.com/dasun-wijayathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dasun wijayathilaka" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dasun-de-silva" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasun de silva" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/dasun-wijayathilaka" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dasun wijayathilaka" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -45,7 +49,6 @@
     <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a></td>
     <td><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a></td>
     <td><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a></td>
-
   </tr>
 </table>
 
@@ -56,8 +59,8 @@ I Just like to Captain America tirelessly fights for justice, I strive to push t
 
 <h3 align="left">📈 My GitHub Stats:</h3>
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="dasunwijayathilaka" /></p>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="dasunwijayathilaka" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="dasunwijayathilaka" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="dasunwijayathilaka" /></p>
 </div>
 
 <h3 align="left">🔥 Motivation:</h3>
