@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlrMGY5Z253MWY5aHp6YjZ5MW9nYjBrMzUxc3Y4MmM3YjI2aWR0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" alt="Developer GIF" width="550" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlrMGY5Z253MWY5aHp6YjZ5MW9nYjBrMzUxc3Y4MmM3YjI2aWR0byZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" alt="Developer GIF" width="550" />
 
 - 🔭 I’m currently learning **Software Engineering & Event planning**
 
@@ -28,10 +28,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dasun wijayathilaka" height="30" width="40" />
   </a>
 </p>
-
-
-
-
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <table>
@@ -53,6 +49,7 @@
     <td><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a></td>
     <td><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a></td>
     <td><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a></td>
+    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a></td>
   </tr>
 </table>
 
@@ -62,13 +59,12 @@ I Just like to Captain America tirelessly fights for justice, I strive to push t
 </p>
 
 <h3 align="left">📈 My GitHub Stats:</h3>
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 10px;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="dasunwijayathilaka" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="dasunwijayathilaka" /></p>
 </div>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29oZnJucHV2ZHh3aWo0eHI4Ymhnd25pNjRnemJpcnoybm9tZ3UzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.webp" alt="Developer GIF" width="550" />
-
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29oZnJucHV2ZHh3aWo0eHI4Ymhnd25pNjRnemJpcnoybm9tZ3UzcyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.webp" alt="Developer GIF" width="550" />
 
 <h3 align="left">🔥 Motivation:</h3>
 <p align="left">"Every line of code is a step towards innovation. Keep coding, keep creating, and let your passion drive you forward."</p>
