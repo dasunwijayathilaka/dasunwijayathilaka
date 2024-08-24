@@ -1,7 +1,9 @@
 <h1 align="center">Greetings 👽, I'm Dasun Wijayathilaka</h1>
 <h3 align="center">Empowering Innovation Through Collaboration: Explore, Contribute, and Grow with My Open-Source Projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="dasunwijayathilaka" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=Profile%20views&color=0e75b6&style=flat" alt="dasunwijayathilaka" />
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -21,11 +23,17 @@
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/dasun-de-silva" target="blank">
+  <a href="https://linkedin.com/in/dasun-de-silva" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dasun de silva" height="30" width="40" />
   </a>
-  <a href="https://fb.com/dasun-wijayathilaka" target="blank">
+  <a href="https://fb.com/dasun-wijayathilaka" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dasun wijayathilaka" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/your-instagram-username" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -64,7 +72,4 @@ I Just like to Captain America tirelessly fights for justice, I strive to push t
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="dasunwijayathilaka" /></p>
 </div>
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29oZnJucHV2ZHh3aWo0eHI4Ymhnd25pNjRnemJpcnoybm9tZ3UzcyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/jsoMtBuP1Ahpu/giphy.webp" alt="Developer GIF" width="550" />
-
-<h3 align="left">🔥 Motivation:</h3>
-<p align="left">"Every line of code is a step towards innovation. Keep coding, keep creating, and let your passion drive you forward."</p>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ29oZnJucHV2ZHh3aWo0eHI4Ymhnd25pNjRnemJpcnoybm9tZ3UzcyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/jsoMtBuP
