@@ -11,9 +11,14 @@
 
 
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3EyeDNoMmJxZXhxMHR3ODFienR4MHA2NTJ5dG9udThvYzBxazdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wPXPhwA6bzihDDxL66/giphy.webp" alt="Developer GIF" width="1000" style="border-radius: 10px;" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3EyeDNoMmJxZXhxMHR3ODFienR4MHA2NTJ5dG9udThvYzBxazdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wPXPhwA6bzihDDxL66/giphy.webp" alt="Developer GIF" width="1000" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="center" style="color: #FF204E; font-family: Arial, sans-serif; font-weight: bold;">
   Empowering Innovation Through Collaboration Grow with My Open-Source Projects
