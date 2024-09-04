@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRsdTN6YmR1cjR3M2dkaHBqaWdsOTdnaDNvN2owdmxraDZiaW8yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ahPGiQsZLMCZVVnMBR/giphy.webp" alt="Developer GIF" width="1000" style="border-radius: 10px;" />
+</p>
+
 <h1 align="center" style="color: #FF5580; background-color: #F9E400; padding: 20px; border-radius: 15px;">
   Greetings 👽, I'm Dasun Wijayathilaka
 </h1>
@@ -22,9 +26,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/gn-pCY5IfHQAAAAC/kakashi-chidori.gif" alt="Developer GIF" width="500" style="border-radius: 10px;" />
-</p>
+
 
 <div align="center">
   <p align="center" style="color: #FFD700; font-weight: bold;">🔭 I’m currently learning **Software Engineering & Event Planning**</p>
