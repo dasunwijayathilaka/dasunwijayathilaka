@@ -103,5 +103,5 @@
 
 <h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">📌 Motivation 🍁:</h3>
 <p align="center" style="color: #FFD700;">
-  "Every line of code is an opportunity to innovate."
+  "Every line of code is a canvas for creativity. Embrace each opportunity to innovate, experiment, and push boundaries. Your unique solutions and ideas shape the future of technology and inspire progress."
 </p>
