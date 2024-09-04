@@ -1,10 +1,12 @@
+<h1 align="center" style="color: #FFD700; background-color: #F9E400; padding: 20px; border-radius: 15px;">
+🐦‍🔥...HI I'm Dasun Wijayathilaka...🐦‍🔥 
+</h1>
+
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3EyeDNoMmJxZXhxMHR3ODFienR4MHA2NTJ5dG9udThvYzBxazdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wPXPhwA6bzihDDxL66/giphy.webp" alt="Developer GIF" width="1000" style="border-radius: 10px;" />
 </p>
-
-<h1 align="center" style="color: #FF5580; background-color: #F9E400; padding: 20px; border-radius: 15px;">
-  Greetings 👽, I'm Dasun Wijayathilaka
-</h1>
 
 <h3 align="center" style="color: #FF204E; font-family: Arial, sans-serif; font-weight: bold;">
   Empowering Innovation Through Collaboration Grow with My Open-Source Projects
@@ -29,13 +31,13 @@
 
 
 <div align="center">
-  <p align="center" style="color: #FFD700; font-weight: bold;">🔭 I’m currently learning **Software Engineering & Event Planning**</p>
-  <p align="center" style="color: #FFD700;">🌱 My Tech stacks include **Java, MySQL, JavaFX, JDBC**</p>
-  <p align="center" style="color: #FFD700;">💬 Ask me about **Java and innovative ideas for software development**</p>
-  <p align="center" style="color: #FFD700;">⚡ Fun fact: **I once debugged a piece of code in my dreams and woke up with the perfect solution! 👽**</p>
+  <p align="center" style="color: #FFD700; font-weight: bold;">🍁 I’m currently learning **Software Engineering & Event Planning**</p>
+  <p align="center" style="color: #FFD700;"> 👨‍💻 My Tech stacks include **Java, MySQL, JavaFX, JDBC**</p>
+  <p align="center" style="color: #FFD700;">🙏 Ask me about **Java and innovative ideas for software development**</p>
+  <p align="center" style="color: #FFD700;">🎈 Fun fact: **I once debugged a piece of code in my dreams and woke up with the perfect solution! 💪**</p>
 </div>
 
-<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">🤝 Connect with me:</h3>
+<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">📞🤙 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dasun-de-silva" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
