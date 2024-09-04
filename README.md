@@ -90,9 +90,10 @@
     <div style="margin-bottom: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
     </div>
-    <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF1493&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
-    </div>
+   <div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF0000&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
+</div>
+
   </div>
 </div>
 
