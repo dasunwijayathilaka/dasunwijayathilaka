@@ -8,7 +8,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=Profile%20views&color=ff1493&style=flat" alt="Profile Views" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/followers/dasunwijayathilaka?label=Followers&color=ff1493&style=flat" alt="Followers" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/following/dasunwijayathilaka?label=Following&color=ff1493&style=flat" alt="Following" />
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -40,8 +46,7 @@
   </a>
 </p>
 
-
-  <h3 align="center" style="color: #FFC100;">🛠️ Languages and Tools:</h3>
+<h3 align="center" style="color: #FFC100;">🛠️ Languages and Tools:</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
   <div style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="filter: hue-rotate(90deg);" />
@@ -72,10 +77,8 @@
   </div>
 </div>
 
-
-
 <h3 align="center" style="color: #FF6D28; font-family: Arial, sans-serif; font-weight: bold;">📈 My GitHub Stats:</h3>
-<div align="center" style="background: linear-gradient(135deg, #78FEE0 0%, #000000 100%); padding: 20px; border-radius: 10px;">
+<div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF204E 100%); padding: 20px; border-radius: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
     <div style="margin-bottom: 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="Top Languages" />
@@ -84,10 +87,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
     </div>
     <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF1493&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700" alt="Current Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF1493&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
     </div>
   </div>
 </div>
+
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmcwNTdoZmNnZGI1d2FvcGVycTNiMzdpdndtbnllM2M5NWUwNG8ybCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/X6E37oJR5niSmUOnoE/giphy.webp" alt="Developer GIF" width="750" style="border-radius: 10px;" />
