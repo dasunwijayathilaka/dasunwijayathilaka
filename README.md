@@ -105,19 +105,25 @@
 
 <h3 align="center" style="color: #FF6D28; font-family: Arial, sans-serif; font-weight: bold;">💪 My GitHub Stats 💪:</h3>
 <div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF204E 100%); padding: 20px; border-radius: 10px;">
-  <div style="display: flex; flex-direction: column; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
-    <div style="margin-bottom: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="Top Languages" />
-    </div>
-    <div style="margin-bottom: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-    </div>
-   <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF0000&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
+  <table align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF0000&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-  </div>
-</div>
 
 
 <p align="center">
