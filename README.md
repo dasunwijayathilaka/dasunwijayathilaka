@@ -51,35 +51,57 @@
 </p>
 
 <h3 align="center" style="color: #FFC100;">🦥 Languages and Tools 🫏:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-  <div style="margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" style="filter: hue-rotate(90deg);" />
-  </div>
-</div>
+<table align="center" style="border-collapse: collapse; width: 60%;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3" style="padding: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center" style="color: #FF6D28; font-family: Arial, sans-serif; font-weight: bold;">💪 My GitHub Stats 💪:</h3>
 <div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF204E 100%); padding: 20px; border-radius: 10px;">
