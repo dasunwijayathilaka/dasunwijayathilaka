@@ -31,13 +31,13 @@
 
 
 <div align="center">
-  <p align="center" style="color: #FFD700; font-weight: bold;">🍁 I’m currently learning **Software Engineering & Event Planning**</p>
-  <p align="center" style="color: #FFD700;"> 👨‍💻 My Tech stacks include **Java, MySQL, JavaFX, JDBC**</p>
-  <p align="center" style="color: #FFD700;">🙏 Ask me about **Java and innovative ideas for software development**</p>
-  <p align="center" style="color: #FFD700;">🎈 Fun fact: **I once debugged a piece of code in my dreams and woke up with the perfect solution! 💪**</p>
+  <p align="center" style="color: #FFD700; font-weight: bold;">🍁 I’m currently learning **Software Engineering & Event Planning 🍁</p>
+  <p align="center" style="color: #FFD700;"> 👨‍💻 My Tech stacks include **Java, MySQL, JavaFX, JDBC 👨‍💻</p>
+  <p align="center" style="color: #FFD700;">🙏 Ask me about **Java and innovative ideas for software development 🙏</p>
+  <p align="center" style="color: #FFD700;">🎈 Fun fact: **I once debugged a piece of code in my dreams and woke up with the perfect solution! 🎈</p>
 </div>
 
-<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">📞🤙 Connect with me:</h3>
+<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">📞 Connect with me 🤙:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dasun-de-silva" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -50,7 +50,7 @@
   </a>
 </p>
 
-<h3 align="center" style="color: #FFC100;">🛠️ Languages and Tools:</h3>
+<h3 align="center" style="color: #FFC100;">🦥 Languages and Tools 🫏:</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; text-align: center;">
   <div style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="filter: hue-rotate(90deg);" />
@@ -81,7 +81,7 @@
   </div>
 </div>
 
-<h3 align="center" style="color: #FF6D28; font-family: Arial, sans-serif; font-weight: bold;">📈 My GitHub Stats:</h3>
+<h3 align="center" style="color: #FF6D28; font-family: Arial, sans-serif; font-weight: bold;">💪 My GitHub Stats 💪:</h3>
 <div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF204E 100%); padding: 20px; border-radius: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
     <div style="margin-bottom: 20px;">
@@ -101,7 +101,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmcwNTdoZmNnZGI1d2FvcGVycTNiMzdpdndtbnllM2M5NWUwNG8ybCZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/X6E37oJR5niSmUOnoE/giphy.webp" alt="Developer GIF" width="750" style="border-radius: 10px;" />
 </p>
 
-<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">🔥 Motivation:</h3>
+<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">📌 Motivation 🍁:</h3>
 <p align="center" style="color: #FFD700;">
   "Every line of code is an opportunity to innovate."
 </p>
