@@ -1,8 +1,8 @@
-<h1 align="center" style="color: #FFD700; background-color: #FF1493; padding: 20px; border-radius: 15px;">
+<h1 align="center" style="color: #FF5580; background-color: #F9E400; padding: 20px; border-radius: 15px;">
   Greetings 👽, I'm Dasun Wijayathilaka
 </h1>
 
-<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">
+<h3 align="center" style="color: #FF204E; font-family: Arial, sans-serif; font-weight: bold;">
   Empowering Innovation Through Collaboration Grow with My Open-Source Projects
 </h3>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/gn-pCY5IfHQAAAAC/kakashi-chidori.gif" alt="Developer GIF" width="1000" style="border-radius: 10px;" />
+  <img src="https://media1.tenor.com/m/gn-pCY5IfHQAAAAC/kakashi-chidori.gif" alt="Developer GIF" width="500" style="border-radius: 10px;" />
 </p>
 
 <div align="center">
@@ -74,8 +74,8 @@
 
 
 
-<h3 align="center" style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold;">📈 My GitHub Stats:</h3>
-<div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #000000 100%); padding: 20px; border-radius: 10px;">
+<h3 align="center" style="color: #FF6D28; font-family: Arial, sans-serif; font-weight: bold;">📈 My GitHub Stats:</h3>
+<div align="center" style="background: linear-gradient(135deg, #78FEE0 0%, #000000 100%); padding: 20px; border-radius: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center; background-color: #000000; padding: 20px; border-radius: 10px;">
     <div style="margin-bottom: 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="Top Languages" />
