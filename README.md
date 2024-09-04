@@ -22,11 +22,18 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=radical&no-bg=true&no-frame=true&column=6&row=2&margin-w=15&margin-h=15&title=Stars,Followers,Commit,Issues,PullRequest,Repositories" alt="GitHub Profile Trophy" style="filter: brightness(9.2) saturate(1.5);" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=radical&no-bg=true&no-frame=true&column=6&row=2&margin-w=15&margin-h=15&title=Stars,Followers,Commit,Issues,PullRequest,Repositories" 
+             alt="GitHub Profile Trophy" 
+             style="filter: hue-rotate(120deg) brightness(1.2) saturate(1.5);" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
