@@ -9,10 +9,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=Profile%20views&color=ff1493&style=flat" alt="Profile Views" />
   &nbsp;•&nbsp;
-  <img src="https://img.shields.io/github/followers/dasunwijayathilaka?label=Followers&color=ff1493&style=flat" alt="Followers" />
-  &nbsp;•&nbsp;
-  <img src="https://img.shields.io/github/following/dasunwijayathilaka?label=Following&color=ff1493&style=flat" alt="Following" />
+  <img src="https://img.shields.io/github/followers/dasunwijayathilaka?label=Followers&color=ff1493&style=flat" alt="Following" />
 </p>
+  
+
 
 
 
