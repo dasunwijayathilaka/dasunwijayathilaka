@@ -97,54 +97,61 @@
 
 
 <h3 align="center" style="color: #FFC100;">🦥 Languages and Tools 🫏:</h3>
-<table align="center" style="border-collapse: collapse; width: 60%;">
+<table align="center" style="border-collapse: collapse; width: 60%; background-color: #2E2E2E; color: white;">
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    <th style="padding: 10px; border: 1px solid #555;">Title</th>
+    <th style="padding: 10px; border: 1px solid #555;">Icon</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #555;">IDE</td>
+    <td style="padding: 10px; border: 1px solid #555;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" />
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    <td style="padding: 10px; border: 1px solid #555;">UI Tools</td>
+    <td style="padding: 10px; border: 1px solid #555;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" />
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    <td style="padding: 10px; border: 1px solid #555;">App Development</td>
+    <td style="padding: 10px; border: 1px solid #555;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="filter: hue-rotate(90deg);" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    <td style="padding: 10px; border: 1px solid #555;">Front End</td>
+    <td style="padding: 10px; border: 1px solid #555;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="3" style="padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" style="filter: hue-rotate(90deg);" />
+    <td style="padding: 10px; border: 1px solid #555;">Back End</td>
+    <td style="padding: 10px; border: 1px solid #555;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #555;">Others</td>
+    <td style="padding: 10px; border: 1px solid #555;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" />
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
