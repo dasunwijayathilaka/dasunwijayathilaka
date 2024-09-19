@@ -153,23 +153,27 @@
 <div align="center" style="background: linear-gradient(135deg, #FFD700 0%, #FF204E 100%); padding: 20px; border-radius: 10px;">
   <table align="center" style="background-color: #000000; padding: 20px; border-radius: 10px;">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&theme=radical" alt="Top Languages" />
+      <td align="center" colspan="2" style="padding: 10px;">
+        <!-- Adding a Pie Chart for Most Used Languages with Default Theme -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=pie&theme=radical" alt="Most Used Languages Pie Chart" />
       </td>
     </tr>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+        <!-- GitHub Stats with Green and Black Colors -->
+        <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical&bg_color=000000&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="GitHub Stats" />
       </td>
-    </tr>
-    <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=FF0000&ring=FFD700&fire=FFD700&stroke=000000&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFD700&sideLabels=FFD700" alt="GitHub Streak" />
+        <!-- GitHub Streak Stats with Green and Black Colors -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&background=000000&ring=00FF00&fire=00FF00&stroke=000000&currStreakLabel=00FF00&currStreakNum=00FF00&sideNums=00FF00&sideLabels=00FF00" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
 
+
+
+ 
 
 
 <p align="center">
