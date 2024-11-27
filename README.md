@@ -23,10 +23,22 @@
   <img src="https://img.shields.io/badge/Live%20Visiting%20Count-50+-FFD700?style=flat" alt="Live Visiting Count" />
 </p>
 
+<!-- GitHub Profile Trophy Section in Table -->
+<h3 style="color: #FFD700; font-family: Arial, sans-serif; font-weight: bold; margin-top: 40px; text-align: center;">🏆 GitHub Profile Trophy 🏅</h3>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Profile Trophy" style="margin-top: 20px;" />
-</a>
+<!-- Table for GitHub Profile Trophy -->
+<table style="width: 100%; text-align: center; margin-top: 20px; border: 2px solid #8B0000; border-radius: 10px; box-shadow: 0px 0px 10px rgba(139, 0, 0, 0.5);">
+  <tr style="background-color: #8B0000; color: white; font-weight: bold;">
+    <th>GitHub Profile Trophy</th>
+  </tr>
+  <tr style="background-color: #f8d7da;">
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10" alt="GitHub Profile Trophy" style="margin-top: 20px; max-width: 100%; height: auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
