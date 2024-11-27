@@ -202,12 +202,23 @@
 
 
 
-
 <!-- Achievements Section -->
 <h2 align="center" style="color: #F39C12; font-family: 'Segoe UI', sans-serif; font-weight: bold; margin-top: 40px;">🏆 Achievements & Contributions</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=gruvbox&no-frame=true&column=4" alt="Achievements" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
-</p>
+
+<!-- Table for Achievements -->
+<table style="width: 100%; text-align: center; margin-top: 20px; border: 2px solid #FF69B4; border-radius: 10px; box-shadow: 0px 0px 10px rgba(255, 105, 180, 0.5);">
+  <tr style="background-color: #FF69B4; color: white; font-weight: bold;">
+    <th>Achievements & Contributions</th>
+  </tr>
+  <tr style="background-color: #f8d7da;">
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=gruvbox&no-frame=true&column=4" alt="Achievements" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; height: auto;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Projects Section -->
 <h2 align="center" style="color: #F39C12; font-family: 'Segoe UI', sans-serif; font-weight: bold; margin-top: 40px;">📂 Featured Projects</h2>
