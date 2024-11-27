@@ -180,7 +180,7 @@
 <!-- GitHub Stats Section with Red Color Theme -->
 <div style="margin-top: 20px; display: flex; justify-content: space-between;">
   <!-- GitHub Stats with Red Theme and Larger Size -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(139, 0, 0, 0.5); width: 60%; height: 350px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&locale=en&theme=radical&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(139, 0, 0, 0.5); width: 50%; height: 350px;" />
 
   <!-- Top Languages with Red Theme and Equal Size -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasunwijayathilaka&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(139, 0, 0, 0.5); width: 40%; height: 350px;" />
