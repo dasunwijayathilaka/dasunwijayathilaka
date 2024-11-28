@@ -245,6 +245,17 @@
 <p align="center">
 </p>
 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTllMDNpZnZjZDg5bXFhNWM2bWttaTI2NHR6Y2xueDRsbTk2OW5xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mbe2zXDtvyqpemVkle/giphy.webp" alt="Developer GIF" width="300" style="border-radius: 10px; margin-top: 20px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" />
+
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVqeHh0ZWtvaXpwNTBodzQzYm9wOGVlN2dtMmxmaGx2NzZ0NXR6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgslApMxSzboxp3ldB/giphy.webp" alt="Developer GIF" width="300" style="border-radius: 10px; margin-top: 20px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" />
+
+
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNicTRodms4Y2ZjNXBya3dpajE0OWticjJlMDlxeGlya3FnNWhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CInRiBV3kBW4qZHdID/giphy.webp" alt="Developer GIF" width="300" style="border-radius: 10px; margin-top: 20px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" />
+
+
+
+
+
 <!-- Footer -->
 <p align="center" style="color: #F39C12; font-family: 'Segoe UI', sans-serif; font-size: 14px; padding: 20px;">
   Made with ❤️ by Tharaka De Silva
