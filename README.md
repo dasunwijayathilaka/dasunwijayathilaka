@@ -1,9 +1,9 @@
 <div align="center" style="background-color: #333; border-radius: 15px; padding: 30px; margin: 20px;">
   <h1 style="color: #FFD700; font-family: 'Courier New', Courier, monospace;">
-    Hi, I'm Tharaka De SilVa 🦥
+   ☠️ Hi, I'm Tharaka De SilVa 😈
   </h1>
   
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzI0cWx5NG4zczB5aDRwODA4dTdlNnBqazliaWJtbGdscWs1dGlzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcC4A6ElcqtUJck/giphy.webp" alt="Developer GIF" width="800" style="border-radius: 10px; margin-top: 20px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ4ZnkxYWFlaWkwbW13Z3lxeWY0ajd2YXduMTdqZjVobHFmOWVxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Hudi43Wq1g14W0HzR/giphy.webp" alt="Developer GIF" width="800" style="border-radius: 10px; margin-top: 20px; box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.2);" />
 
   <h3 style="color: #FF4500; font-family: Arial, sans-serif; font-weight: bold; margin-top: 30px;">
     Empowering Innovation Through Collaboration
