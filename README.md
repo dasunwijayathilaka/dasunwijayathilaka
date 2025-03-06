@@ -70,17 +70,14 @@
  <table style="width: 100%; text-align: center; margin-top: 20px;">
   <tr>
     <td>
-      <a href="https://linkedin.com/in/dasun-de-silva" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" style="margin: 10px;" />
       </a>
     </td>
     <td>
-      <a href="https://instagram.com/yourusername" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="40" style="margin: 10px;" />
       </a>
     </td>
     <td>
-      <a href="https://facebook.com/yourusername" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" style="margin: 10px;" />
       </a>
     </td>
