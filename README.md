@@ -1,8 +1,8 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,19,24,27&section=header&text=Tharaka%20De%20Silva&fontSize=40&fontColor=f637ec&fontAlignY=35&desc=Cybersecurity%20Specialist%20|%20Developer&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,12,19,24,27&section=header&text=Tharaka%20De%20Silva&fontSize=40&fontColor=f637ec&fontAlignY=35&desc=UI/UX%20Enthusiast%20|%20Web%20Developer&descAlignY=55&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F637EC&center=true&vCenter=true&random=false&width=800&lines=FULL-STACK+DEVELOPER+%7C+CYBERSECURITY+SPECIALIST;TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;HACKING+THE+MATRIX+ONE+LINE+AT+A+TIME;SECURING+THE+FUTURE+OF+TECHNOLOGY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F637EC&center=true&vCenter=true&random=false&width=800&lines=FULL-STACK+DEVELOPER+%7C+UI/UX+Designer;TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;HACKING+THE+MATRIX+ONE+LINE+AT+A+TIME;SECURING+THE+FUTURE+OF+TECHNOLOGY)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
@@ -15,10 +15,10 @@
 ```javascript
 const developer = {
   name: "Tharaka De Silva",
-  alias: "☠️ CyberHunter 😈",
-  focus: ["Software Engineering", "Event Planning"],
-  specialization: ["Cybersecurity", "AI/ML", "Full-Stack Development"],
-  techStack: ["Java", "MySQL", "JavaFX", "JDBC"],
+  alias: "D -REX",
+  focus: ["Software Engineering", "Event Planning", "Cybersecurity"],
+  specialization: ["UI/UX Design","AI/ML", "Full-Stack Development"],
+  techStack: ["Java", "MySQL", "JavaFX", "JDBC","See More..."],
   currentStatus: "Coding the future and securing the present",
   funFact: "Once debugged code in my dreams and fixed a production bug"
 };
