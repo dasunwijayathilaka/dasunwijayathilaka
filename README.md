@@ -73,6 +73,13 @@ const developer = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **SYSTEM ANALYTICS**
 
 <div align="center">
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&random=false&width=850&lines=J.A.R.V.I.S.+SECURITY+PROTOCOL+ACTIVATED;IRON-CLAD+ZERO-TRUST+FRAMEWORKS;QUANTUM-RESISTANT+ARC+REACTOR+ENCRYPTION;MARK+VII+CLOUD+SECURITY+AUTOMATION)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
+  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dasunwijayathilaka&show_icons=true&count_private=true&title_color=f637ec&icon_color=00d7fe&text_color=c9d1d9&bg_color=0d1117&border_color=f637ec&hide_border=false&show_owner=true" alt="GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunwijayathilaka&layout=compact&title_color=f637ec&text_color=00d7fe&bg_color=0d1117&border_color=f637ec&hide_border=false" />
 </div>
