@@ -134,5 +134,5 @@ const developer = {
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,12,19,24,27&section=footer&text=SYSTEM%20INITIALIZED%20WITH%20%E2%9D%A4%EF%B8%8F%20BY%20THARAKA%20DE%20SILVA&fontSize=16&fontColor=f637ec&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,12,19,24,27&section=footer&text=SYSTEM%20INITIALIZED%20WITH%20%E2%9D%A4%EF%B8%8F%20BY%20DASUN%20WIJAYATHILAKA%20&fontSize=16&fontColor=f637ec&animation=fadeIn" />
 </div>
