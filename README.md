@@ -1,11 +1,14 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F637EC&center=true&vCenter=true&random=false&width=800&lines=FULL-STACK+DEVELOPER+%7C+UI/UX+Designer;TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;HACKING+THE+MATRIX+ONE+LINE+AT+A+TIME;SECURING+THE+FUTURE+OF+TECHNOLOGY)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</div>
+</div>
+<br><br>
 
--------------------------------------------
 ![pt](https://github.com/user-attachments/assets/ec4cc389-5506-4a84-98ae-74524a3811e1)
 
--------------------------------------------
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
@@ -31,45 +34,76 @@ const developer = {
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=PROFILE+MATRIX&color=ff00ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dasunwijayathilaka?logo=github&style=for-the-badge&color=ff00ff" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/dasunwijayathilaka?label=Followers&style=for-the-badge&color=ff00ff" alt="Followers" />
 </p>
 
-<details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Repos-Check%20Profile-ff00ff?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Stars-Give%20Me%20Some%20⭐-ff00ff?style=for-the-badge&logo=github" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-ff00ff?style=for-the-badge&logo=code" alt="Top Language" />
+  <img src="https://img.shields.io/badge/Last%20Commit-Recently%20Active-ff00ff?style=for-the-badge&logo=github" alt="Last Commit" />
+</p>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+
 <summary><h2><img src="https://media.giphy.com/media/K4ZVFOtHwuRxkZ4qrq/giphy.gif" width="30"> ACHIEVEMENT DATABASE</h2></summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dasunwijayathilaka&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
-</details>
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/VNVI5RZDTyGm0hzYtY/giphy.gif" width="30"> **TECH ARSENAL**
 
+## <img src="https://media.giphy.com/media/VNVI5RZDTyGm0hzYtY/giphy.gif" width="30"> <strong>TECH ARSENAL 🦁</strong>
+
+### 🧠 Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,vscode,figma,ps&perline=7&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,firebase&perline=7&theme=dark" />
   </a>
 </p>
 
-<details>
-<summary><h3>🖥️ DEVELOPMENT ENVIRONMENT</h3></summary>
+### 🎨 Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&perline=7&theme=dark" />
+  </a>
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,git,github,gitlab,docker,kubernetes,postman,netlify,vercel&perline=7&theme=dark" />
+  </a>
+</p>
+
+### 🌐 Other Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=graphql,linux,aws,azure,nginx,webpack,selenium&perline=7&theme=dark" />
+  </a>
+</p>
+
+### 🖥️ Development Environment
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,eclipse,vim&perline=7&theme=dark" />
   </a>
 </p>
-</details>
 
-<details>
-<summary><h3>🎨 INTERFACE CUSTOMIZATION</h3></summary>
+### 🎨 Interface Customization
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,svg&perline=7&theme=dark" />
   </a>
 </p>
-</details>
+
+
+
+
+
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
@@ -90,6 +124,14 @@ const developer = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dasunwijayathilaka&theme=radical&hide_border=false&stroke=f637ec&background=0d1117&ring=f637ec&fire=00d7fe&currStreakLabel=00d7fe" alt="GitHub Streak Stats" />
 </p>
+
+
+<!-- Animated gradient cards -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100%" height="8px" />
+</div>
+<br><br>
+
 
 <!-- GitHub Activity Graph -->
 <p align="center">
