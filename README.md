@@ -7,7 +7,7 @@
 </div>
 <br><br>
 
-![pt](https://github.com/user-attachments/assets/ec4cc389-5506-4a84-98ae-74524a3811e1)
+![New_logo](https://github.com/user-attachments/assets/b358fe36-c894-44e7-bbcb-950b781b819e)
 
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
