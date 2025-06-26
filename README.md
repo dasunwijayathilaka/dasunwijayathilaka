@@ -39,48 +39,197 @@ My approach emphasizes the synthesis of technical proficiency and design thinkin
 
 ## <img src="https://media.giphy.com/media/VNVI5RZDTyGm0hzYtY/giphy.gif" width="30"> <strong>TECH ARSENAL 🦁</strong>
 
-### 🧠 Backend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,mongodb,mysql,postgres,firebase&perline=7&theme=dark" />
-  </a>
-</p>
+### 🎨 Frontend Mastery
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=html" width="60"/>
+        <br><strong>🏗️ HTML5</strong>
+        <br><sub>Semantic Structure</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=css" width="60"/>
+        <br><strong>🎨 CSS3</strong>
+        <br><sub>Advanced Styling</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=js" width="60"/>
+        <br><strong>⚡ JavaScript</strong>
+        <br><sub>ES6+ Modern JS</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=ts" width="60"/>
+        <br><strong>🔷 TypeScript</strong>
+        <br><sub>Type Safety</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=react" width="60"/>
+        <br><strong>⚛️ React</strong>
+        <br><sub>Component Library</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60"/>
+        <br><strong>▲ Next.js</strong>
+        <br><sub>Full-Stack React</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
+        <br><strong>🌊 Tailwind</strong>
+        <br><sub>Utility-First CSS</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
+        <br><strong>🅱️ Bootstrap</strong>
+        <br><sub>Responsive Design</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=materialui" width="60"/>
+        <br><strong>🎭 Material UI</strong>
+        <br><sub>Design System</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=sass" width="60"/>
+        <br><strong>💎 Sass</strong>
+        <br><sub>CSS Preprocessor</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🎨 Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,materialui&perline=7&theme=dark" />
-  </a>
-</p>
+### ⚙️ Backend Engineering
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+        <br><strong>🟢 Node.js</strong>
+        <br><sub>Server Runtime</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=python" width="60"/>
+        <br><strong>🐍 Python</strong>
+        <br><sub>Versatile Language</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=java" width="60"/>
+        <br><strong>☕ Java</strong>
+        <br><sub>Enterprise Solutions</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=express" width="60"/>
+        <br><strong>🚂 Express</strong>
+        <br><sub>Web Framework</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=spring" width="60"/>
+        <br><strong>🌸 Spring</strong>
+        <br><sub>Java Framework</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,git,github,gitlab,docker,kubernetes,postman,netlify,vercel&perline=7&theme=dark" />
-  </a>
-</p>
+### 🗄️ Database & Storage
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+        <br><strong>🍃 MongoDB</strong>
+        <br><sub>NoSQL Database</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+        <br><strong>🐬 MySQL</strong>
+        <br><sub>Relational DB</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=postgres" width="60"/>
+        <br><strong>🐘 PostgreSQL</strong>
+        <br><sub>Advanced SQL</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=redis" width="60"/>
+        <br><strong>🔴 Redis</strong>
+        <br><sub>In-Memory Cache</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=firebase" width="60"/>
+        <br><strong>🔥 Firebase</strong>
+        <br><sub>BaaS Platform</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🌐 Other Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,linux,aws,azure,nginx,webpack,selenium&perline=7&theme=dark" />
-  </a>
-</p>
+### ☁️ Cloud & DevOps
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=aws" width="60"/>
+        <br><strong>☁️ AWS</strong>
+        <br><sub>Cloud Services</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=gcp" width="60"/>
+        <br><strong>🌐 GCP</strong>
+        <br><sub>Google Cloud</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=docker" width="60"/>
+        <br><strong>🐳 Docker</strong>
+        <br><sub>Containerization</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="60"/>
+        <br><strong>⚓ Kubernetes</strong>
+        <br><sub>Orchestration</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nginx" width="60"/>
+        <br><strong>🔄 Nginx</strong>
+        <br><sub>Web Server</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 🖥️ Development Environment
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,androidstudio,eclipse,vim&perline=7&theme=dark" />
-  </a>
-</p>
-
-### 🎨 Interface Customization
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,svg&perline=7&theme=dark" />
-  </a>
-</p>
-
+### 🛠️ Development Tools
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+        <br><strong>📝 VS Code</strong>
+        <br><sub>Code Editor</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=git" width="60"/>
+        <br><strong>🌿 Git</strong>
+        <br><sub>Version Control</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=github" width="60"/>
+        <br><strong>🐙 GitHub</strong>
+        <br><sub>Code Hosting</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=postman" width="60"/>
+        <br><strong>📮 Postman</strong>
+        <br><sub>API Testing</sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=figma" width="60"/>
+        <br><strong>🎨 Figma</strong>
+        <br><sub>UI/UX Design</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
