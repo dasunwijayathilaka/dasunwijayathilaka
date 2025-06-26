@@ -1,48 +1,29 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F637EC&center=true&vCenter=true&random=false&width=800&lines=FULL-STACK+DEVELOPER+%7C+UI/UX+Designer;TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;HACKING+THE+MATRIX+ONE+LINE+AT+A+TIME;SECURING+THE+FUTURE+OF+TECHNOLOGY)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Dasun%20Wijayathilaka&fontSize=70&color=0:ff69b4,25:da70d6,50:ba55d3,75:9370db,100:8a2be2&stroke=ff69b4&strokeWidth=2&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20×%20Data%20Scientist&descSize=20&descAlignY=68)
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%26+UI%2FUX+Designer;Crafting+Exceptional+User+Experiences;Designing+Intuitive+Digital+Interfaces;Building+Modern+Web+Solutions" alt="Typing SVG" />
 </div>
-</div>
-<br><br>
-
-![New_logo](https://github.com/user-attachments/assets/b358fe36-c894-44e7-bbcb-950b781b819e)
-
-
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
-
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/2Hudi43Wq1g14W0HzR/giphy.webp">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **SYSTEM PROFILE**
-
-```javascript
-const developer = {
-  name: "Dasun Wijayathilaka",
-  alias: "D -REX",
-  focus: ["Software Engineering", "Event Planning", "Cybersecurity"],
-  specialization: ["UI/UX Design","AI/ML", "Full-Stack Development"],
-  techStack: ["Java", "MySQL", "JavaFX", "JDBC","See More..."],
-  currentStatus: "Coding the future and securing the present",
-  funFact: "Once debugged code in my dreams and fixed a production bug"
-};
-```
-
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dasunwijayathilaka&label=PROFILE+MATRIX&color=ff00ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dasunwijayathilaka?label=Followers&style=for-the-badge&color=ff00ff" alt="Followers" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-ff69b4?style=for-the-badge&logo=code&logoColor=white&labelColor=8a2be2" />
+  <img src="https://img.shields.io/badge/Data-Scientist-da70d6?style=for-the-badge&logo=chart-bar&logoColor=white&labelColor=8a2be2" />
+  <img src="https://img.shields.io/badge/Status-Available-ba55d3?style=for-the-badge&logo=handshake&logoColor=white&labelColor=8a2be2" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repos-Check%20Profile-ff00ff?style=for-the-badge&logo=github" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Stars-Give%20Me%20Some%20⭐-ff00ff?style=for-the-badge&logo=github" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-ff00ff?style=for-the-badge&logo=code" alt="Top Language" />
-  <img src="https://img.shields.io/badge/Last%20Commit-Recently%20Active-ff00ff?style=for-the-badge&logo=github" alt="Last Commit" />
-</p>
+</div>
+
+## 🌸 Professional Overview
+
+I am a Frontend Developer and UI/UX Designer specializing in creating exceptional digital experiences through intuitive interface design and seamless user interactions. My expertise spans the complete frontend development lifecycle, from user research and wireframing to implementing responsive, accessible web applications.
+
+I focus on developing modern, scalable frontend solutions while applying user-centered design principles. I combine cutting-edge frontend frameworks with comprehensive UI/UX methodologies to deliver solutions that drive engagement and exceed user expectations.
+
+My approach emphasizes the synthesis of technical proficiency and design thinking, creating applications that function flawlessly across all platforms while providing users with intuitive, memorable experiences.
+
+---
+
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
