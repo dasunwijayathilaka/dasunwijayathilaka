@@ -256,11 +256,7 @@ My approach emphasizes the synthesis of technical proficiency and design thinkin
 </p>
 
 
-<!-- Animated gradient cards -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100%" height="8px" />
-</div>
-<br><br>
+
 
 
 <!-- GitHub Activity Graph -->
@@ -270,16 +266,8 @@ My approach emphasizes the synthesis of technical proficiency and design thinkin
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/KhuRJM41W6lIny0my7/giphy.gif" width="30"> **FEATURED DEPLOYMENTS**
 
-<div align="center">
-  <a href="https://github.com/dasunwijayathilaka/pos-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunwijayathilaka&repo=pos-system&theme=radical&bg_color=0d1117&title_color=f637ec&icon_color=00d7fe&text_color=c9d1d9&border_color=f637ec" />
-  </a>
-  <a href="https://github.com/dasunwijayathilaka/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dasunwijayathilaka&repo=portfolio-website&theme=radical&bg_color=0d1117&title_color=f637ec&icon_color=00d7fe&text_color=c9d1d9&border_color=f637ec" />
-  </a>
-</div>
+
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
@@ -297,11 +285,7 @@ My approach emphasizes the synthesis of technical proficiency and design thinkin
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/CInRiBV3kBW4qZHdID/giphy.webp" width="150" />
-  <img src="https://media3.giphy.com/media/mbe2zXDtvyqpemVkle/giphy.webp" width="150" />
-  <img src="https://media4.giphy.com/media/qgslApMxSzboxp3ldB/giphy.webp" width="150" />
-</div>
+
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hr.gif" width="100%">
 
